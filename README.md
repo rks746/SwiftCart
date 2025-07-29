@@ -4,7 +4,7 @@
 
 SwiftCart is a Flutter-powered mobile app that lets customers **scan items**, **add to cart**, and **checkout instantly** — all without waiting in line. Built using **FlutterFlow** and **Firebase**, SwiftCart is our MVP toward reshaping the offline retail experience.
 
-🔗 [Watch the Demo Video]([https://www.youtube.com/your-video-link-here](https://youtu.be/gGOdkReOKTM))
+🔗 [Watch the Demo Video]((https://youtu.be/gGOdkReOKTM))
 
 ---
 
